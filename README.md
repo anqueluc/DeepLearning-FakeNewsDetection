@@ -1,4 +1,4 @@
-# Deep-Learning - Fake-News
+# Deep Learning - Fake News Detection
 ## Introduction
 
 We present our university project where the goal was to build a neural network capable of distinguishing fake from real news based on the dataset "Liar, Liar Pants on Fire" accessible here : https://arxiv.org/abs/1705.00648
@@ -59,6 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 We would like to thank our university and laboratory that taught us so much :
+
 http://www.univ-rouen.fr/
 
 https://www.insa-rouen.fr/
