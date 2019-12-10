@@ -27,10 +27,10 @@ In order to reproduce the training, the only thing you have to do is to pick the
 Afterward just run the file main.py in which you mentionned the index of the model to be trained.
 
 ```
-Give the example
+line 37: idx_model = ...
 ```
 ```
-Give the example
+python3 main.py
 ```
 
 
