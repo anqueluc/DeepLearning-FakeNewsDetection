@@ -29,6 +29,9 @@ Afterward just run the file main.py in which you mentionned the index of the mod
 ```
 Give the example
 ```
+```
+Give the example
+```
 
 
 ## Demonstration
@@ -57,11 +60,16 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 We would like to thank our university and laboratory that taught us so much :
 http://www.univ-rouen.fr/
+
 https://www.insa-rouen.fr/
+
 https://www.litislab.fr/
 
-Special acknowledgement to our teachers :
+## Special acknowledgement to our teachers :
+
 Romain Hérault http://asi.insa-rouen.fr/enseignants/~rherault/pelican/index.html
+
 Clément Chatelain http://pagesperso.litislab.fr/cchatelain/ 
+
 Benjamin Deguerre https://fr.linkedin.com/in/benjamin-deguerre-07452a134
 
