@@ -66,12 +66,8 @@ Benjamin Deguerre https://fr.linkedin.com/in/benjamin-deguerre-07452a134
 
 ## Authors
 
-<i>El Hadji Brane Seck
+<i>El Hadji Brane Seck</i>
 
-Pierre Lopez
+<i>Pierre Lopez</i>
 
-Lucas Anquetil</i>
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+<i>Lucas Anquetil</i>
