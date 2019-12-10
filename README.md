@@ -8,9 +8,9 @@ During this project we trained a little over 120 models for the classification t
 
 ## Prerequisites
 
-To be able to train a model or to try the demo.py file
-you need to have Python 3 and the following packages installed :
-numpy, tensorflow, pandas, cPickles, keras
+To be able to train a model or to try the demo.py file you need to have Python 3 and the following packages installed :
+
+<b>numpy, tensorflow, pandas, cPickles, keras</b>
 
 ```
 apt-get install python3
@@ -23,7 +23,8 @@ apt-get install cPickle
 ## Training
 
 
-In order to reproduce the training, the only thing you have to do is to pick the index associated to the model we tried or even create your own as well.
+In order to reproduce the training, the only thing you have to do is to pick the index associated to the model we tried or even create your own as well. 
+
 Afterward just run the file main.py in which you mentionned the index of the model to be trained.
 
 ```
@@ -37,24 +38,12 @@ python3 main.py
 ## Demonstration
 
 A demo file is also provided associated with 2 real news (one tweet from D. Trump and one tweet from B. Obama), and 2 fake news we created from those two real tweets.
+
 You may need to check the path variables at the beginning of the file and then just run it.
 
 ```
 python3 demo.py
 ```
-
-
-## Authors
-
-El Hadji Brane Seck
-
-Pierre Lopez
-
-Lucas Anquetil
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
@@ -74,3 +63,15 @@ Clément Chatelain http://pagesperso.litislab.fr/cchatelain/
 
 Benjamin Deguerre https://fr.linkedin.com/in/benjamin-deguerre-07452a134
 
+
+## Authors
+
+<i>El Hadji Brane Seck
+
+Pierre Lopez
+
+Lucas Anquetil</i>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
