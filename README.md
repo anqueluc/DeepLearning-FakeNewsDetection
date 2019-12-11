@@ -10,7 +10,7 @@ During this project we trained a little over 120 models for the classification t
 
 To be able to train a model or to try the demo.py file you need to have Python 3 and the following packages installed :
 
-<b>numpy, tensorflow, pandas, cPickles, keras</b>
+<i>numpy, tensorflow, pandas, cPickles, keras</i>
 
 ```
 apt-get install python3
