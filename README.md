@@ -20,6 +20,11 @@ pip3 install numpy, tensorflow, pandas, keras
 apt-get install cPickle
 ```
 
+You also need to download the word embedding file from ... and place the file right in the <i>data</i> folder.
+
+And to download the result folder from ... in order to have the weights of the best model among every trained one.
+
+
 ## Training
 
 
