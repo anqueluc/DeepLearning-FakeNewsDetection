@@ -42,9 +42,9 @@ https://nlp.stanford.edu/projects/glove/
 
 ## Demonstration
 
-A demo file is also provided associated with 2 real news (one tweet from D. Trump and one tweet from B. Obama), and 2 fake news we created from those two real tweets.
+A demo file for a prediction using one of the best of the models we trained, is also provided associated with 2 real news (one tweet from D. Trump and one tweet from B. Obama), and 2 fake news we created from those two real tweets.
 
-You may need to check the path variables at the beginning of the file and then just run it.
+Just run :
 
 ```
 python3 demo.py
