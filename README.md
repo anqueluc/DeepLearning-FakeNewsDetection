@@ -20,9 +20,9 @@ pip3 install numpy, tensorflow, pandas, keras
 apt-get install cPickle
 ```
 
-You also need to <b>download the word embedding file</b> from https://drive.google.com/open?id=14jZwyHLQavuGa0UsaojqUBJsOWY2q2Ht and place the file right in the <u>data</u> folder.
+You also need to <b>download the word embedding file</b> from https://drive.google.com/open?id=14jZwyHLQavuGa0UsaojqUBJsOWY2q2Ht and place the file right in the <U>data</U> folder.
 
-And to <b>download the result folder</b> from ...  and put the folder <u>results</u> aside the other folders, in order to have the weights of the best model among every trained one, thus being able to re-train one of our models or to train one of yours.
+And to <b>download the result folder</b> from https://drive.google.com/open?id=1r_xIUsDIVIbcpQu3RSFvGaz7t6bI1cnE and put the folder <U>results</U> aside the other folders, in order to have the weights of the best model among every trained one, thus being able to re-train one of our models or to train one of yours.
 
 
 ## Training
@@ -67,11 +67,11 @@ https://www.litislab.fr/
 
 ## Special acknowledgement to our teachers :
 
-Romain Hérault http://asi.insa-rouen.fr/enseignants/~rherault/pelican/index.html
+- Romain Hérault http://asi.insa-rouen.fr/enseignants/~rherault/pelican/index.html
 
-Clément Chatelain http://pagesperso.litislab.fr/cchatelain/ 
+- Clément Chatelain http://pagesperso.litislab.fr/cchatelain/ 
 
-Benjamin Deguerre https://fr.linkedin.com/in/benjamin-deguerre-07452a134
+- Benjamin Deguerre https://fr.linkedin.com/in/benjamin-deguerre-07452a134
 
 
 ## Authors
