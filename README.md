@@ -33,6 +33,11 @@ line 37: idx_model = ...
 ```
 python3 main.py
 ```
+After having done your training, the results, architecture and training log file are created and save as well in the result directory under the subdirectory named by the index of the model.
+
+One could also try a training with a different word embedding, you can find other word embedding files here :
+
+https://nlp.stanford.edu/projects/glove/
 
 
 ## Demonstration
